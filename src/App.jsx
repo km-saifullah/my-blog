@@ -1,7 +1,4 @@
 import "./App.css";
-import conf from "./conf/config";
-
-console.log(conf);
 
 function App() {
   return (
